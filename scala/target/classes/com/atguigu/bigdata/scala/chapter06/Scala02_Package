@@ -1,0 +1,28 @@
+package com.atguigu.bigdata.scala.chapter06
+
+/**
+ * @author wx
+ * @create 2020-05-23 10:52
+ */
+object Scala01_Object {
+  def main(args: Array[String]): Unit = {
+    //Scala -面向对象
+    //Scala的基本面向对象的语法和java是相同的
+
+    //包
+    //1、声明包（起名）
+    //域名反写 + 项目名称 + 模块名 + 程序类型名称
+    // atguigu.com => com.atguigu
+    // 包名没那么重要
+
+    //2、包的作用
+    // 2.1 管理类
+    // 2.2 区分类 ： Date
+    // 2.3 访问权限
+    // 2.4 编译类，类的源码程序应该和所在的包名保持一致
+
+    // Scala语言对package语法进行了功能的补充，更加强大
+
+  }
+}
+
